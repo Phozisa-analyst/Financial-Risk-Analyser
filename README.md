@@ -9,15 +9,6 @@ Built specifically to demonstrate cross-functional capability between **Bespoke 
 
 ---
 
-## 🎯 My Technical Stack & Focus Areas
-
-* **Data Engineering & Cleansing:** Advanced SQL logic, Data Deduplication routines, Common Table Expressions (CTEs), and Window Functions for cohort tracking.
-* **Enterprise ERP Systems:** SAP S/4HANA Private Cloud architecture concepts—specifically focusing on Management Accounting / Controlling (CO) data streams and Universal Journal (**ACDOCA**) ledger mapping.
-* **Quality Assurance & Testing:** Structured test case design aligned with **ISTQB Software Testing Frameworks** and automated database auditing to ensure data integrity.
-* **Business Intelligence:** Advanced Business Analytics execution, executive performance metrics design, and financial cost allocation logic.
-
----
-
 ## 🛠️ Architecture & Core System Layout
 - **Language:** Python 3.11+
 - **Data Pipeline:** Pandas & NumPy (Emulating an ETL layer extracting from source systems, executing data deduplication, and fixing missing ledger flags)
